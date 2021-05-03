@@ -49,7 +49,7 @@ We welcome pull requests for bug fixes and new features! Feel free to browse our
 * [backstage](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Abackstage): issues affecting the repository or project internals rather than user-facing features.
 * [bug](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Abug): happy little code accidents.
 * [canvas](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Acanvas-bug): confirmed to be an issue with the Canvas LMS rather than the CanvasAPI library.
-* [documentation](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Adocumentation): issues relating to Documentation. Specifically, any of the `.md` files or our [class reference docs](http://canvasapi.readthedocs.io/en/latest/).
+* [documentation](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Adocumentation): issues relating to Documentation. Specifically, any of the `.md` files or our [class reference docs](https://canvasapi.readthedocs.io/en/stable/class-reference.html).
 * [enhancement](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Aenhancement): updates to the engine to improve performance or add new functionality.
 * [help wanted](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3A"help%20wanted"): we need *your* help to figure these out!
 * [major](https://github.com/ucfopen/canvasapi/issues?q=sort%3Aid_desc-desc+is%3Aopen+label%3Amajor): difficult or major changes or additions that require familiarity with the library.
